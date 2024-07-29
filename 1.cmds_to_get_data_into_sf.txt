@@ -1,0 +1,53 @@
+Download the json files form the https://cricsheet.org/downloads/ipl_male_json.zip ;
+
+Keep the seperate folder for storing the all json files with folder name ipl on desktop(or your convinent location)
+
+Open the SnowSQL in the local machine 
+
+Connect to the snowflake account with usermane and account name;
+
+snowsql -a vwbssqu-ud04626 -u manjunath528
+
+Now Enter the password of the snowflake account
+--Enter the Password
+
+--Connect to the warehouse named ipl_warehouse;
+
+use warehouse ipl_warehouse;
+
+--if you haven't created the warehouse create it.
+--Command to create warehouse named ipl_warehouse;
+
+create warehouse if not exists ipl_warehouse
+warehouse_size = xsmall
+warehouse_type = standard
+auto_suspend = 60
+auto_resume =true
+initially_suspended = true;
+
+
+--Now connect to the database
+
+use database ipl_database;
+
+--if you haven't created the database create it.
+--Command to create database named ipl_database;
+
+create database if not exists ipl_database;
+
+
+use schema land;
+
+--if you haven't created the schema create it.
+--Command to create schema named land;
+
+create or replace schema land;
+
+-- if you haven't created the stage in the land schema create it using the following command;
+
+create or replace stage land.my_stg;
+
+-- Now run the following command by replacing the file path with the path you downloaded the json files --
+
+5. PUT file:///Users/Desktop/ipl/*.json @my_stg AUTO_COMPRESS=TRUE OVERWRITE=TRUE PARALLEL=8;
+
