@@ -1,5 +1,5 @@
 In this project I  have done the data processing of the ipl json data into the meaning structured data format.
-Basically I wanted to create a dashboards on the ipl data to do that I decided to first the data processing .
+Basically I wanted to create a dashboards on the ipl data to do that I decided to do first the data processing .
 
 Tools I have used :
 * Snowflake 
