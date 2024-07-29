@@ -67,7 +67,7 @@ Now open the snowflake web and follow the steps mentioned in the second file 2.i
 
 Finally after completion of everything in the snowflake the ER diagram with fact and dimension tables looks as follow:
 
-    ![1](<img width="862" alt="Screenshot 2024-07-29 at 21 04 27 2" src="https://github.com/user-attachments/assets/5748fdea-b7eb-4c17-8e3a-e4bef7b1ef9c">)
+![1](https://github.com/user-attachments/assets/5748fdea-b7eb-4c17-8e3a-e4bef7b1ef9c)
 
 After completion of all the steps in 2nd file now we need to move all the files into the new stage in consumption.
 To do this just follow the steps mentioned in the third file .
