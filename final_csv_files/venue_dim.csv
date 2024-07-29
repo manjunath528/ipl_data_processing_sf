@@ -1,0 +1,41 @@
+"VENUE_ID","VENUE_NAME","CITY","STATE","COUNTRY","CONTINENT","END_NAMES","CAPACITY","PITCH","FLOOD_LIGHT","ESTABLISHED_DT","PLAYING_AREA","OTHER_SPORTS","CURATOR","LATTITUDE","LONGITUDE"
+1,"Arun Jaitley Stadium","Delhi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+2,"Barabati Stadium","Cuttack","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+3,"Barsapara Cricket Stadium","Guwahati","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+4,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium","Lucknow","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+5,"Brabourne Stadium","Mumbai","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+6,"Buffalo Park","East London","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+7,"De Beers Diamond Oval","Kimberley","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+8,"Dr DY Patil Sports Academy","Navi Mumbai","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+9,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium","Visakhapatnam","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+10,"Dubai International Cricket Stadium","Dubai","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+11,"Eden Gardens","Kolkata","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+12,"Feroz Shah Kotla","Delhi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+13,"Green Park","Kanpur","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+14,"Himachal Pradesh Cricket Association Stadium","Dharamsala","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+15,"Holkar Cricket Stadium","Indore","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+16,"JSCA International Stadium Complex","Ranchi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+17,"Kingsmead","Durban","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+18,"M Chinnaswamy Stadium","Bengaluru","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+19,"MA Chidambaram Stadium","Chennai","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+20,"Maharaja Yadavindra Singh International Cricket Stadium","Mohali","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+21,"Maharashtra Cricket Association Stadium","Pune","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+22,"Narendra Modi Stadium","Ahmedabad","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+23,"Nehru Stadium","Kochi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+24,"New Wanderers Stadium","Johannesburg","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+25,"Newlands","Cape Town","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+26,"OUTsurance Oval","Bloemfontein","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+27,"Punjab Cricket Association Stadium","Chandigarh","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+28,"Rajiv Gandhi International Stadium","Hyderabad","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+29,"Sardar Patel Stadium","Ahmedabad","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+30,"Saurashtra Cricket Association Stadium","Rajkot","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+31,"Sawai Mansingh Stadium","Jaipur","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+32,"Shaheed Veer Narayan Singh International Stadium","Raipur","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+33,"Sharjah Cricket Stadium","Sharjah","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+34,"Sheikh Zayed Stadium","Abu Dhabi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+35,"St George's Park","Port Elizabeth","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+36,"Subrata Roy Sahara Stadium","Pune","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+37,"SuperSport Park","Centurion","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+38,"Vidarbha Cricket Association Stadium","Nagpur","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+39,"Wankhede Stadium","Mumbai","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
+40,"Zayed Cricket Stadium","Abu Dhabi","\N","\N","\N","\N",\\N,"\N",\\N,"\N","\N","\N","\N",\\N,\\N
